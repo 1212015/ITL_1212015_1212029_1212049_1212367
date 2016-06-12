@@ -1,0 +1,2 @@
+D:\TTNT\OctopusPathfinder\OctopusPathfinder\OctopusPathfinderContent\obj\x86\Debug\OctopusPathfinderContent.contentprojResolveAssemblyReference.cache
+C:\Users\LONGANH\Desktop\PPLST\OctopusPathfinder\OctopusPathfinderContent\obj\x86\Debug\OctopusPathfinderContent.contentprojResolveAssemblyReference.cache
